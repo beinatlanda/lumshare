@@ -1,1 +1,1 @@
-web: node app.jstouch
+web: node app.js
